@@ -1,0 +1,6 @@
+Contains 5 different CSV files where each provides a specific input about houses.
+1) houses_address: it is self-explainatory 
+2) house_details: type, size, energy label, etc.
+3) house_neighborhood: distance from closet supermarket, daycare, gas station, etc.
+4) houses_population: population of neighberhood, age range, female/male, etc.
+5) houses_price: current house price, any changes in the price, etc
