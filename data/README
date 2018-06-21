@@ -1,4 +1,4 @@
-Contains 5 different CSV files where each provides a specific input about houses.
+Contains 5 different CSV files where each (2581 houses) provides a specific input about houses.
 1) houses_address: it is self-explainatory 
 2) house_details: type, size, energy label, etc.
 3) house_neighborhood: distance from closet supermarket, daycare, gas station, etc.
